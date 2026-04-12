@@ -11,7 +11,7 @@ src/
 ├── data_cleaning/       # Raw PDF extraction and metadata structuring
 ├── embedding/      # Text chunking, embedding generation, and vector storage
 └── Retrieval/      # Agentic LLM workflows and compliance reporting
-
+```
 
 Module Breakdown
 1. cleaning/ (Data Preparation)
